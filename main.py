@@ -3,14 +3,15 @@ from agents.supervisor import SupervisorAgent
 def main():
     supervisor = SupervisorAgent()
 
-    print("=== WELCOME TO SHE-GUARD ===")
-    user_message = input("Enter your message: ")
-    user_id = "USER-01"
+    while True:
+        user_text = input("\nYou: ")
 
-    result = supervisor.process_input(user_message, user_id)
+        if user_text.lower() == "exit":
+            print("Exiting SHE-GUARD...")
+            break
 
-    print("\n--- FINAL OUTPUT ---")
-    print(result)
+        response = supervisor.process_input(user_text)
+        print("\nSYSTEM OUTPUT:", response)
 
 
 if __name__ == "__main__":

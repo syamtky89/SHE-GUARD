@@ -1,3 +1,4 @@
 class EmergencyCallTool:
-    def make_call(self, service):
-        print(f"[CALL TOOL] Calling {service}...")
+    def make_emergency_call(self, number="+112"):
+        print(f"[EmergencyCallTool] Triggering emergency call to {number}...")
+        return True

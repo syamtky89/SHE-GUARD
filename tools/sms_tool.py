@@ -1,3 +1,4 @@
 class SMSTool:
-    def send_sms(self, text):
-        print("\n[SMS TOOL] Sending SMS:", text)
+    def send_sms(self, number, message):
+        print(f"[SMSTool] Sending SMS to {number}: {message}")
+        return True
