@@ -1,0 +1,25 @@
+[2025-11-18 21:39:09] User message: danger
+[2025-11-18 21:39:09] Risk score: 1
+[2025-11-18 21:40:01] User message: help
+[2025-11-18 21:40:01] Risk score: 1
+[2025-11-18 21:40:15] User message: risk
+[2025-11-18 21:40:15] Risk score: 0
+[2025-11-18 21:41:56] User message:  plz help
+[2025-11-18 21:41:56] Risk score: 1
+[2025-11-18 21:42:15] User message: theart
+[2025-11-18 21:42:15] Risk score: 0
+[2025-11-18 21:42:42] User message: emergeny
+[2025-11-18 21:42:42] Risk score: 0
+[2025-11-18 22:11:25] User Message: "Someone is following me! Please help!"
+[2025-11-18 22:11:25] Risk Score: 100
+[2025-11-18 22:11:25] Risk Level: CRITICAL
+[2025-11-18 22:11:31] Location: Kozhikode, Kerala, India (Lat: 11.2448, Lon: 75.7721)
+[2025-11-18 22:14:15] User Message: "Someone is following me! Please help!"
+[2025-11-18 22:14:15] Risk Score: 100
+[2025-11-18 22:14:15] Risk Level: CRITICAL
+[2025-11-18 22:14:15] Location: Kozhikode, Kerala, India (Lat: 11.2448, Lon: 75.7721)
+[2025-11-18 22:16:37] User Message: "Someone is following me! Please help!"
+[2025-11-18 22:16:37] Risk Score: 100
+[2025-11-18 22:16:37] Risk Level: CRITICAL
+[2025-11-18 22:16:37] Location: Kozhikode, Kerala, India (Lat: 11.2448, Lon: 75.7721)
+[2025-11-18 22:16:37] Workflow Output: {'risk': 100, 'location': 'Kozhikode, Kerala, India (Lat: 11.2448, Lon: 75.7721)', 'emergency_level': 'CRITICAL', 'message': '"Someone is following me! Please help!"', 'user_id': 'USER01', 'status': 'Workflow Completed Successfully'}
