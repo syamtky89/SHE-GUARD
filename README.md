@@ -177,4 +177,3 @@ This project is open-source and free to use.
 
 DONE ✅
 
-Your README.md is ready for GitHub.
