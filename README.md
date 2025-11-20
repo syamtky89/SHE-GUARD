@@ -94,10 +94,6 @@ Fast & reliable
 
 Used to detect city, region, country, latitude, longitude
 
-📦 Installation
-1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/SHE-GUARD.git
-cd SHE-GUARD
 
 2. Install dependencies
 pip install -r requirements.txt
